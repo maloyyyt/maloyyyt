@@ -1,76 +1,99 @@
 
-<h1 align="center">Hi, I'm Artem 👋</h1>
+<h1 align="center">Artem Petrov</h1>
 
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">
-  I create web applications and enjoy learning new technologies.
+  Building web applications and learning new technologies.
 </p>
 
 <p align="center">
-  <a href="https://github.com/maloyyyt">
-    <img src="https://img.shields.io/badge/GitHub-maloyyyt-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://t.me/maloyyyt">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <a href="https://github.com/maloyyyt">GitHub</a>
+  ·
+  <a href="https://t.me/maloyyyt">Telegram</a>
 </p>
 
 ---
 
 ## About Me
 
-- 🎓 3rd-year student at Singularity College
-- 💻 Focused on Frontend Development
-- 🌱 Currently improving my React and JavaScript skills
-- 🚀 Working on web applications and personal projects
-- 🎯 Looking for Junior Frontend Developer opportunities
+I'm a 3rd-year student at Singularity College, focused on Frontend Development.
+
+- Interested in building modern web applications
+- Working with React and JavaScript
+- Learning TypeScript and Redux Toolkit
+- Have experience with educational and personal projects
+- Open to Junior Frontend Developer opportunities
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,python" />
-</p>
+**Frontend**
+
+HTML · CSS · JavaScript · TypeScript · React · Vite
+
+**Tools**
+
+Git · GitHub · Tilda
+
+**Other**
+
+Python
 
 ## Featured Projects
 
-### Frontend Projects
+### Frontend
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Skypro Music](https://github.com/maloyyyt/skypro-music) | Music streaming application (in progress) | React, JavaScript |
-| [Skypro Kanban](https://github.com/maloyyyt/skypro-cw) | Task management application | React, JavaScript |
-| [Skypro Wallet](https://github.com/maloyyyt/skypro-wallet) | Wallet application | Web Development |
-| [JavaScript Course](https://github.com/maloyyyt/2-nd-course-hw) | JavaScript coursework | JavaScript |
+**[Skypro Music](https://github.com/maloyyyt/skypro-music)**
 
-### Python Projects
+Music streaming application — currently in development.
 
-| Project | Description | Technology |
-|---|---|---|
-| [Banking Operations](https://github.com/maloyyyt/coursework) | Banking operations analysis application | Python |
-| [Coursework 2](https://github.com/maloyyyt/coursework2) | Aircraft tracking project | Python |
+`React` `TypeScript`
+
+**[Skypro Kanban](https://github.com/maloyyyt/skypro-cw)**
+
+Task management application.
+
+`React` `JavaScript`
+
+**[Skypro Wallet](https://github.com/maloyyyt/skypro-wallet)**
+
+Wallet application.
+
+**[JavaScript Course](https://github.com/maloyyyt/2-nd-course-hw)**
+
+Coursework focused on JavaScript fundamentals.
+
+`JavaScript`
+
+### Python
+
+**[Banking Operations](https://github.com/maloyyyt/coursework)**
+
+Application for analyzing banking operations.
+
+`Python`
+
+**[Aircraft Tracker](https://github.com/maloyyyt/coursework2)**
+
+Aircraft tracking project.
+
+`Python`
 
 ## Currently Learning
 
 - Advanced React
-- JavaScript
+- TypeScript
 - Redux Toolkit
 - Working with APIs
 - Modern frontend development
 
 ## Contact
 
-<p align="left">
-  <a href="https://t.me/maloyyyt">
-    <img src="https://img.shields.io/badge/Telegram-@maloyyyt-26A5E4?style=flat-square&logo=telegram" />
-  </a>
-  <a href="https://github.com/maloyyyt">
-    <img src="https://img.shields.io/badge/GitHub-maloyyyt-181717?style=flat-square&logo=github" />
-  </a>
-</p>
+- Telegram: [@maloyyyt](https://t.me/maloyyyt)
+- GitHub: [maloyyyt](https://github.com/maloyyyt)
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile!
+  <sub>Thanks for visiting my profile.</sub>
 </p>
